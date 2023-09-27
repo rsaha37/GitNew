@@ -2,3 +2,6 @@ I want new edits.
 New one1
 Two one
 Three two
+
+Git clone:
+changed this
